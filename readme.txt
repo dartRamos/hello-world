@@ -1,3 +1,2 @@
-Im just writing
-A couple of lines
-To test this out
+This is my first readme file
+Learning how to use this properly
